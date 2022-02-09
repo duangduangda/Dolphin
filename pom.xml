@@ -21,7 +21,7 @@
     </build>
 
     <properties>
-        <hadoop.version>2.7.1</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <flink.version>1.7.2</flink.version>
         <scala.version>2.12</scala.version>
         <mysql.version>5.1.47</mysql.version>
